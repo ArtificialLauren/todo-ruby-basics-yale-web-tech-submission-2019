@@ -6,16 +6,16 @@ def assign_variable(value)
   value
 end
 
-def argue
+def argue(something)
 
 end
 
-def greeting
+def greeting(name, language)
 
 end
 
 def return_a_value
-
+  "Nice"
 end
 
 def last_evaluated_value
